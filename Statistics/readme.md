@@ -1,1 +1,1 @@
-This section contains knowledge and concepts required for Machine Learning and Data Science.
+This section contains knowledge and concepts of Probabilty and Statistics required for Machine Learning and Data Science.
